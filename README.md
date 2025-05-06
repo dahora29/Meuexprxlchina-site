@@ -1,1 +1,1 @@
-https://github.com/dahora29/Meuexprxlchina-site.git
+https://github.com/dahora29/exprchina
